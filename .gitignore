@@ -1,0 +1,12 @@
+# Ignore compiled class files and build output
+/build/
+*.class
+
+# Ignore NetBeans private config
+/nbproject/private/
+
+# Ignore generated manifest
+manifest.mf
+
+# Optional: ignore NetBeans form files if not needed
+*.form
